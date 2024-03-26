@@ -2,6 +2,8 @@
 <h3 align="center">3rd year software engineer student @ FEUP</h3>
 
 - 📫 You can reach me at **rjmoucho@gmail.com**
+- 🌍 Currently living in Porto, Portugal
+- 💼 Looking for summer internship opportunities
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
