@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rodrigo Moucho</h1>
-<h3 align="center">3rd year software engineer student @ FEUP</h3>
+<h3 align="center">1st year doing Master in Informatics and Computing Engineering @ FEUP</h3>
 
 - 📫 You can reach me at **rjmoucho@gmail.com**
 - 🌍 Currently living in Porto, Portugal
